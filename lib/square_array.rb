@@ -3,5 +3,5 @@ def square_array(array)
   a = 0
 
   while array[a] do
-    square.push(array[a]**)
+    square.push(array[a]**2)
 end
